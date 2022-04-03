@@ -1,0 +1,19 @@
+input{
+    padding: 4px;
+    margin: 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid;
+    width:  10cm;
+}
+label{
+    width: 160px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+.center{
+    border: 5px solid;
+    text-align: center;
+}
